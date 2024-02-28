@@ -14,7 +14,7 @@ Program : IBM Academy Advance Al
 
 -python
 
-Jupyter Notebook
+-Jupyter Notebook
 
 
 
