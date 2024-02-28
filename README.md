@@ -14,10 +14,7 @@ Program : IBM Academy Advance Al
 
 -python
 
--HTML
+Jupyter Notebook
 
--CSS
 
--javaScript
 
--Flask
